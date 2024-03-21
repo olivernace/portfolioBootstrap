@@ -1,0 +1,54 @@
+body{
+    margin: 10;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: rgb(45, 255, 129);
+}
+
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight:300 ;
+}
+
+.line{
+    height: 6px;
+    background-color: rgb(238, 255, 0);
+    width: 70px;
+    margin: 8px auto;
+}
+
+#app{
+    background-color: rgb(63, 226, 255);
+}
+
+
+#game{
+    background-color:rgb(0, 102, 255) ;
+}
+
+#textosJogos{
+    color: rgb(4, 4, 4);
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+#meuCarrosel{
+    background-color: rgb(214, 220, 229);
+}
+
+#meuCarrosel img{
+    height: 300px;
+    margin-top: 35px;   
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : rgb(3, 145, 184);
+    font-size: 20px;
+}
